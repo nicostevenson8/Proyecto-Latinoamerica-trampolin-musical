@@ -7,37 +7,37 @@
 ### Hipótesis: Latinoamérica es la región que más le permite a los artistas musicales crecer y explotar globalmente
 
 ### Antecedentes
-#### _¿Qué tipos de datos investigan?_
+### _¿Qué tipos de datos investigan?_
 ##### Cuantitativos, numéricos y cifras acerca de reproducciones, oyentes y crecimiento de estos en base al tiempo y la región.
-#### _Origen y naturaleza de los datos_
+### _Origen y naturaleza de los datos_
 ##### Estos datos saldrán de mediciones de las diversas plataformas de streaming musical. Cuantitativos discretos, cuando hablemos de reproducciones y oyentes. 
-#### _¿Qué se ha publicado antes sobre el tema?_
+### _¿Qué se ha publicado antes sobre el tema?_
 ##### Latinoamérica contiene a 4 de los 7 países con más súperoyentes de Spotify. 
 ##### Santiago de Chile es la ciudad que más escucha reggaetón en el mundo. 
 ##### Las cifras en constante movimiento y actualización en las plataformas musicales.
-#### _¿Cuál es la historia de su propuesta de investigación? ¿Qué es lo nuevo?_
-##### En los últimos meses y años el top 50 global se ha llenado de artistas latinos, permitiendo que artistas de países que no son de potencias musicales lleguen a reproducciones de nivel mundial. Habiendo cantantes de países como Chile, México, Colombia, Argentina, Puerto Rico, etc.
-#### _¿Cómo planea trabajar los datos?_
+### _¿Cuál es la historia de su propuesta de investigación? ¿Qué es lo nuevo?_
+##### En los últimos meses y años el top 50 global se ha llenado de artistas latinos, permitiendo que artistas de países que no son de potencias musicales lleguen a reproducciones de nivel mundial. Habiendo cantantes de países como Chile, México, Colombia, Argentina, Puerto Rico, República Dominicana, entre otros. La historia detrás de nuestra propuesta viene de la mano con que las plataformas de streaming han tomado un rol clave en permitir la exposición de estos artistas, entregando el espacio para las millones de reproducciones, en donde la comunidad latina se posiciona como la principal fuente generadora de estas.
+### _¿Cómo planea trabajar los datos?_
 ##### Recopilando información de distintas plataformas y de manera atemporal, para medir cómo varían las reproducciones y el apoyo a los distintos artistas por año. Además, poner en un plano comparativo los números en las diversas plataformas donde se sube música y donde la gente la escucha.
-#### _¿Qué datos necesita para probar su hipótesis?_
+### _¿Qué datos necesita para probar su hipótesis?_
 ##### Datos que reflejen el crecimiento de artistas gracias a sus oyentes latinoamericanos. Datos que demuestren cómo Chile lidera y destaca dentro de la categoría de súper oyentes. Por último, casos específicos sobre artistas provenientes de lugares distintos a Latinoamérica que también hayan sido beneficiados por las reproducciones latinas.
-#### _¿Qué datos tiene y qué datos necesita conseguir aún? Elabore una lista de fuentes de datos._
+### _¿Qué datos tiene y qué datos necesita conseguir aún? Elabore una lista de fuentes de datos._
 ##### Tenemos los datos de los países que predominan en súper oyentes, las reproducciones de los artistas más escuchados a nivel mundial, los países y ciudades donde más se escuchan a esos artistas (y también a otros de distintos géneros musicales), los crecimientos de ciertos artistas con el pasar de los años y sus nuevas canciones y los álbumes, artistas y canciones más escuchados en Spotify. 
 ##### Todavía falta por encontrar datos más tangibles como experiencias personales a nivel país. También datos que nos ayuden a ver cómo han aumentado las reproducciones de ciertos artistas y qué países son los que los han apoyado constantemente durante toda sus carreras.
-#### _¿Qué datos son públicos y cuáles no?_
+### _¿Qué datos son públicos y cuáles no?_
 ##### Toda información recopilada de plataformas de streaming musical son de uso público, mientras que, las que consigamos a través de entrevistas a medida que vayamos avanzando con la investigación, serán de uso privado.
-#### _¿Qué datos son confiables y cuáles no?_
+### _¿Qué datos son confiables y cuáles no?_
 ##### Los datos confiables son aquellos provenientes de las plataformas de streaming, mientras que lo que no lo son pueden provenir de medios de información, principalmente si tienen poco reconocimiento y poco background. Datos entregados por un experto dependen de dónde viene este, siendo confiables si es que la información que trabajan proviene de las misma plataformas de streaming.
-#### _¿Cuál es el resultado mínimo previsible del trabajo a realizar? ¿Cuál es el máximo?_
+### _¿Cuál es el resultado mínimo previsible del trabajo a realizar? ¿Cuál es el máximo?_
 ##### Mínimo: Generar una investigación que muestre cómo Latinoamérica se ha convertido en una catapulta musical para artistas.
 ##### Máximo: Dar cuenta a toda la sociedad el potencial que tiene la música en Chile para hacer crecer el país no solamente musicalmente sino también económica y laboralmente.
-#### _¿Qué es lo mínimo que se puede contar como historia con los datos que tienen?_
+### _¿Qué es lo mínimo que se puede contar como historia con los datos que tienen?_
 ##### La historia acerca del crecimiento de la música latinoamericana y chilena en los últimos años, la cual llegó a un peak que no se había dado en ningún momento de la historia. 
-#### _¿Qué es lo máximo que se puede contar como historia con los datos que tienen?_
+### _¿Qué es lo máximo que se puede contar como historia con los datos que tienen?_
 ###### En los últimos 5-7 años ha llegado una situación en la que los artistas latinos son de los más escuchados del mundo. Mostrando cifras comparativas entre los artistas más escuchados de la zona actualmente y cómo fue su pasado hasta llegar a hoy. También señalar las distintas historias específicas de cantantes y cómo entraron a la industria global.
-#### _¿Cuáles son las preguntas que se pueden responder con los datos?_
+### _¿Cuáles son las preguntas que se pueden responder con los datos?_
 ##### ¿Cómo se traduce la fama y relevancia de los artistas? ¿Qué países a lo largo del mundo son los que más consumen contenido musicales? ¿Cuáles son los países a nivel sudamericano que escuchan más género urbano? ¿Cuán musicalizada está la sociedad gracias a las plataformas? ¿Es el género urbano de lo más escuchado a nivel sudamericano? ¿Cómo han evolucionado los artistas con el boom de la digitalización? ¿Cómo son los números de un artista posterior a una canción exitosa?
-#### _¿Qué tipo de elementos digitales les gustaría tener?_
+### _¿Qué tipo de elementos digitales les gustaría tener?_
 ##### Gráfico de barras y torta. También elementos que puedan ser interactivos para que, quienes entren a ver el trabajo puedan ser partícipes del contenido. Ejemplos de esto último pueden ser videos, trivias o contenidos que permitan hacer del proyecto algo más lúdico.
-#### _¿Cómo esos elementos ayudarán a contar su historia?_
+### _¿Cómo esos elementos ayudarán a contar su historia?_
 ##### La visualizan y le entregan la información a la gente de una forma más dinámica y creativa. Con este tipo de elementos el emisor puede hacer una imagen en su cabeza de los datos y así comprender mejor la información.
